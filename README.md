@@ -134,5 +134,3 @@ For any questions or suggestions, feel free to reach out:
 If you find this tool helpful, please give the repository a ⭐ star ⭐ to show your support!
 
 ---
-
-*This README was generated to provide a comprehensive overview of the Proxy Performance Monitor. Enjoy a lag-free gaming experience!*
