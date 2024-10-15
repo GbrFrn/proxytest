@@ -15,7 +15,7 @@ Welcome to the **Proxy Performance Monitor**, a tool designed to help you find t
 
 ## 📸 Screenshot
 
-*(Insert a screenshot of the tool running in the console here)*
+![image](https://i.imgur.com/wTkt7EW.png)
 
 ## 🛠️ Installation
 
