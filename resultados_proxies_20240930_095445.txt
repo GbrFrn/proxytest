@@ -1,0 +1,71 @@
+===== Resultados dos Proxies =====
+
+Proxy: Proxy 0 - Brasil
+  Ping Médio: 13.08 ms
+  Ping Mínimo: 13.00 ms
+  Ping Máximo: 14.00 ms
+  Perda de Pacotes: 0.00%
+  Jitter: 0.27 ms
+
+Proxy: Proxy 1 - Global
+  Ping Médio: 16.42 ms
+  Ping Mínimo: 11.00 ms
+  Ping Máximo: 21.00 ms
+  Perda de Pacotes: 0.00%
+  Jitter: 2.66 ms
+
+Proxy: Proxy 2 - Brasil
+  Ping Médio: 12.89 ms
+  Ping Mínimo: 12.00 ms
+  Ping Máximo: 15.00 ms
+  Perda de Pacotes: 0.00%
+  Jitter: 0.51 ms
+
+Proxy: Proxy 3 - Brasil
+  Ping Médio: 11.02 ms
+  Ping Mínimo: 10.00 ms
+  Ping Máximo: 12.00 ms
+  Perda de Pacotes: 0.00%
+  Jitter: 0.24 ms
+
+Proxy: Proxy 4 - EUA Miami
+  Ping Médio: 118.95 ms
+  Ping Mínimo: 118.00 ms
+  Ping Máximo: 120.00 ms
+  Perda de Pacotes: 2.33%
+  Jitter: 0.31 ms
+
+Proxy: Proxy 5 - Canadá
+  Ping Médio: 145.21 ms
+  Ping Mínimo: 145.00 ms
+  Ping Máximo: 146.00 ms
+  Perda de Pacotes: 0.00%
+  Jitter: 0.42 ms
+
+===== Melhor Proxy =====
+
+Proxy: Proxy 3 - Brasil
+Descrição: Rota alternativa, VPS hospedado em São Paulo.
+Ping Médio: 11.02 ms
+Perda de Pacotes: 0.00%
+Jitter: 0.24 ms
+
+===== Traceroute do Melhor Proxy =====
+
+
+Rastreando a rota para proxy3.ragnatales.com.br [216.238.110.95]
+com no m ximo 30 saltos:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.18.1 
+  2     2 ms     2 ms     2 ms  100.75.240.242 
+  3     2 ms     1 ms     1 ms  100.75.241.174 
+  4     2 ms     2 ms     2 ms  100.75.241.177 
+  5     2 ms     2 ms     2 ms  100.75.251.137 
+  6    10 ms    10 ms    10 ms  100.75.242.57 
+  7    11 ms    11 ms    11 ms  187.16.214.112 
+  8   271 ms   222 ms   220 ms  10.108.0.14 
+  9    11 ms    11 ms    12 ms  10.108.0.142 
+ 10     *        *        *     Esgotado o tempo limite do pedido.
+ 11    11 ms    11 ms    11 ms  216.238.110.95 
+
+Rastreamento conclu¡do.
