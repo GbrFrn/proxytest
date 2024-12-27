@@ -33,23 +33,23 @@ proxy_descriptions = {
     },
     "proxy2.ragnatales.com.br": {
         "display_name": "Proxy 2 - Brasil",
-        "description": "Rota alternativa, VPS hospedado em São Paulo."
+        "description": "Rota alternativa em cloud premium, hospedado em São Paulo."
     },
     "proxy3.ragnatales.com.br": {
         "display_name": "Proxy 3 - Brasil",
-        "description": "Rota alternativa, VPS hospedado em São Paulo."
+        "description": "Rota alternativa em cloud premium, hospedado em São Paulo."
     },
     "proxy4.ragnatales.com.br": {
-        "display_name": "Proxy 4 - EUA Miami",
-        "description": "Rota Internacional, VPS hospedado em Miami."
+        "display_name": "Proxy 4 - Brasil",
+        "description": "Rota alternativa em cloud premium, hospedado em São Paulo.."
     },
     "proxy5.ragnatales.com.br": {
-        "display_name": "Proxy 5 - Canadá",
-        "description": "Rota Internacional, VPS hospedado no Canadá."
+        "display_name": "Proxy 5 - Brasil",
+        "description": "Rota alternativa em cloud premium, hospedado em São Paulo."
     },
     "proxy6.ragnatales.com.br": {
         "display_name": "Proxy 6 - Brasil",
-        "description": "Rota alternativa, VPS hospedado em São Paulo."
+        "description": "Rota alternativa em cloud premium, hospedado em São Paulo."
     }
 }
 
